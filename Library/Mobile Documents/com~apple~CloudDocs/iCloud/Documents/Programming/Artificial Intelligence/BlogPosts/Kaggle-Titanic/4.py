@@ -1,0 +1,1 @@
+predictions = dtc.predict(test)
